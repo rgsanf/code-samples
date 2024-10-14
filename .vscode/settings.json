@@ -8,12 +8,7 @@
     "activityBar.border": "#e6cc85"
   },
   "editor.tabSize": 2,
-  "prettier.configPath": ".prettierrc.json",
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.semi": true,
   "cSpell.words": [""],
-  "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
 }
